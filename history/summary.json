@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.ikyu.com",
     "slug": "ikyu",
     "status": "up",
-    "uptime": "0.22%",
-    "uptimeDay": "0.22%",
-    "uptimeWeek": "0.22%",
-    "uptimeMonth": "0.22%",
-    "uptimeYear": "0.22%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1038,
     "timeDay": 1038,
     "timeWeek": 1038,
     "timeMonth": 1038,
     "timeYear": 1038,
-    "dailyMinutesDown": {
-      "2022-09-02": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
