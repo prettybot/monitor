@@ -2,7 +2,7 @@
   {
     "name": "Ikyu",
     "url": "https://www.ikyu.com",
-    "icon": "https://favicons.githubusercontent.com/www.ikyu.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.ikyu.com.ico",
     "slug": "ikyu",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2637,
-    "timeDay": 4110,
-    "timeWeek": 2625,
-    "timeMonth": 2637,
-    "timeYear": 2637,
+    "time": 2696,
+    "timeDay": 4697,
+    "timeWeek": 3045,
+    "timeMonth": 2696,
+    "timeYear": 2696,
     "dailyMinutesDown": {}
   }
 ]
